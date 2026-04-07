@@ -62,6 +62,6 @@ Future Improvements
 * Predictive modeling for attrition forecasting
 * Real-time data updates
 ---
-Author
+Created by
 **Farhan Khan**
 
